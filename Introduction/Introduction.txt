@@ -1,0 +1,53 @@
+Git and Github
+
+It is a open source distributed version control system
+Designed for minor major projects with high speed and efficiency
+It is developed to coordinate the work for all the developers\
+Version control allows for tracking the changes and bugs and working together with other developers
+Git is created by linus torvalds in 2005
+
+Features of git:
+Open source
+Version control---distributed,tracking
+Scalable
+Security
+Speed
+
+Github:
+
+Github is the git repository hosting service 
+Access control and collaboration
+It mainly host the source code
+It also offer like git some distributed version control and source code management
+
+Featues of github:
+Collaboration
+Bug tracking
+Git repositories
+Code hosting
+Tracking the changes
+Team management
+ Project Management
+
+Setup of git:
+Configuring user information used across all local repositories
+Git config --global user.name “user name”
+Git config --global user.email  “email”
+Git config --global user.name
+Git config --global user.email
+Initializing
+Git init
+Git clone copy url
+Git status
+Git add --all
+Git status
+Git push origin master
+Creation of folder and files using git commands
+Mkdir foldername
+This is for creating the folder
+Rmdir foldername
+This is for removing the particular folder
+Touch filename.txt (or) filename.html 
+This is for creating the file name extension is must and should
+Rm filename.extension
+This is for removing the particular file
