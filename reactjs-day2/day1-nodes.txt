@@ -1,0 +1,50 @@
+Introduction to web designing:
+	Web design:the design of websites displayed in the internet
+	Website:the collection of web pages under same domain
+	Web page:the specific information about website
+	Html:
+HyperText Markup language
+It is a markup language not a programming language.
+Html is used to create static web pages
+Tim Berners-Lee is the father of Html which is introduced in 1991
+The present version of html is Html5
+Html 1.0----->1991
+Html 2.0------>1995
+Html 3.2---->1997
+Html4.1-----1999
+Html5-----2008
+Features:
+Html is very easy and simple to understand
+It is very easy to make an effective presentation of the webpage
+It has lot of formatting tags
+Html is platform-independent
+Case-insensitive
+Building blocks of html:
+Tags ----->  (< tag></tag>)
+Attribute------>name and value
+Elements:------>start tag,content,endtag
+
+
+<html>------->
+
+Heading tags
+Paragraph tag
+Image tag--> <img></img>
+Link tag---> <a></a>
+Table tag--->th,tr,td
+Lists
+	Ordered lists
+	Unordered lists
+        Definition lists or description lista
+
+
+
+Html text editor------>sublime
+		
+
+
+
+
+
+
+
