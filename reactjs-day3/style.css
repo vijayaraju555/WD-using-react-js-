@@ -1,0 +1,16 @@
+#design{
+	background-color: blue;
+	border:2px solid pink;
+	margin: 5px;
+	text-align: center;
+	padding: 5px;
+}
+#des{
+	background-color: pink;
+	border:2px solid pink;
+	margin: 5px;
+}
+#res{
+	display: flex;
+	flex-wrap: wrap;
+}

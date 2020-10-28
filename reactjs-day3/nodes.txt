@@ -1,0 +1,58 @@
+Elements in HTML:
+Semantic elements
+Non-Semantic elements
+Block level elements
+Inline elements
+
+Semantic Elements:
+ 	It clearly defines it’s content to both browser and developer.
+
+Example:
+Header,footer,section,article,nav,audio,video,track,form,input,aside etc...
+
+Non-semantic Elements:
+	These are implemented with class or id attributes to define the structure and express the meaning of the content
+
+Example :
+   Div,span
+
+  Block level Elements :
+
+These elements occupies the entire space of it’s parent elements
+
+Example:
+    paragraph,heading,Lists,forms,div etc…
+
+Inline Elements
+	These elements occupy only the space bounded by the corresponding tags.
+
+Examples: Span,images,anchor
+CSS3
+
+Means cascading style sheets
+It is mainly used for applying styles to our web pages (.html or .htm page)
+Three types in Css
+Inline css 
+Internal css
+External css
+
+Syntax for css:
+
+    Selector{ Property:value;
+Propertie1:value1;
+}
+
+Types of Selectors:
+Element Selector (Tag Selector)
+Id Selector
+Class Selector
+Group selector
+Universal selector
+Combined Selector
+
+
+Flexbox:
+
+A Flexbox layout consists of a flex container that holds the flex items.the flex container can be laid out horizontally or vertically
+Flexbox is used for responsive web designing
+
